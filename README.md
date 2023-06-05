@@ -11,3 +11,5 @@ Welcome to my GitHub profile! I am a passionate developer working on my own proj
 If you're interested in collaborating on remote projects, feel free to reach out to me at s.kashizadeh@gmail.com. I'm open to exciting opportunities and enjoy working with like-minded individuals.
 
 Let's create amazing things together and push the boundaries of what's possible in the world of software development! 🚀
+
+![Phpust's GitHub stats](https://github-readme-stats.vercel.app/api?username=phpust&show_icons=true&theme=transparent)
